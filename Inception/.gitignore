@@ -1,0 +1,10 @@
+# Sensitive files
+srcs/.env
+secrets/
+
+# Docker generated data
+/home/*/data/
+
+# System files
+.DS_Store
+*.log
