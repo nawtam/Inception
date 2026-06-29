@@ -8,3 +8,4 @@ secrets/
 # System files
 .DS_Store
 *.log
+data_backup/
